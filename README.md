@@ -12,4 +12,4 @@ For a detailed explaination check out https://face-recognition.readthedocs.io/en
   1. Make a directory 'data' in the main directory of the repo
   2. Make 2 sub-directories 'known_faces' and 'unknown_faces'
   3. All test images can be put into the 'unknown_faces' directory
-  4. In the 'known_faces' directory make a sub-directory for each indivial person in you dataset. For example, make sub-directoriesperson_1, person_2, ... inside 'known_faces' where person_1 is a directory containing all the images of 'person_1' etc
+  4. In the 'known_faces' directory make a sub-directory for each indivial person in you dataset. For example, make sub-directories person_1, person_2, ... inside 'known_faces' where person_1 is a directory containing all the images of 'person_1' etc
