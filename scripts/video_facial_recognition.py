@@ -8,7 +8,6 @@ def rescale_frame(frame, percent=75):
     dim = (width, height)
     return cv2.resize(frame, dim, interpolation=cv2.INTER_AREA)
 
-
 KNOWN_FACES_DIR = os.path.join('..', 'data', 'known_faces')
 UNKNOWN_FACES_DIR = os.path.join('..', 'data', 'unknown_faces') 
 TOLERANCE = 0.4
