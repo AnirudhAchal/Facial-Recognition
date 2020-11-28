@@ -6,7 +6,7 @@
   3. Clone the public repository 'git clone git://github.com/ageitgey/face_recognition'
   4. Install face_recognition by running 'python setup.py install' inside the directory of the cloned repo in your project environment.
   
-For detailed explaination check out https://face-recognition.readthedocs.io/en/latest/installation.html
+For a detailed explaination check out https://face-recognition.readthedocs.io/en/latest/installation.html
   
 ## Using your own Images
   1. Make a directory 'data' in the main directory of the repo
